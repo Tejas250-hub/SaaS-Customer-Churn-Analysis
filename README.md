@@ -47,3 +47,6 @@ The dataset represents customer information at a point in time. The analysis ide
 
 ## Conclusion
 This project demonstrates a customer churn analysis workflow using Python, SQL, Excel, and Power BI. The results can help businesses explore retention patterns and investigate areas for improving customer retention.
+## 📊 Power BI Dashboard Preview
+
+![Power BI Dashboard](images/powerbi-dashboard.png)
